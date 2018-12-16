@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.82
 - name: golang-http-demo
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.3
 - name: redux-crud-example
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
